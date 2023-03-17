@@ -1,0 +1,83 @@
+
+.book-container{
+        width: 50%;
+        margin: 0 auto;
+    /* background-color: #d5d0d0; */
+    position: absolute;
+}
+.book-diamond{
+    display: flex;
+    justify-content: space-between;
+}
+.fees{
+    display: flex;
+    justify-content: space-between;
+}
+.book-card h1 {
+    color: #ff0090;
+    letter-spacing: 2px;
+}
+.line1{
+    height: 1px;
+  border: 0;
+  background: black;
+}
+.total{
+    display: flex;
+    justify-content: space-between;
+}
+.card1-flex{
+    display: flex;
+    justify-content: space-between;
+
+}
+.book-right{
+    float:right;
+    color: rgb(228, 34, 34);
+   
+}
+.book-dotline{
+    border: 2px solid red;
+    width:65px;
+    border-style: dotted;
+}
+.book-card1{
+   background-color: ;
+}
+/* 
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+.book-container {
+    height: 600px;
+    width: 400px;
+    background-color: #d5d0d0;
+    position: absolute;
+}
+
+.book-block1 {
+    position: relative;
+    background-color: #fff;
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0px 10px 5px #fff;
+}
+
+.book-heading {
+    color: #ff0090;
+    letter-spacing: 2px;
+}
+
+#line1 {
+    display: flex;
+    justify-content: space-between;
+}
+.total{
+    box-shadow: 0px 0px 0px 0px;
+    margin-top: 5px;
+} */

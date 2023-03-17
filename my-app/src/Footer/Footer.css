@@ -1,0 +1,155 @@
+.footer-section
+{
+    background-color: black;
+    color: white;
+}
+.footer-container
+{
+    width: 100%;
+    margin: 0 auto;
+}
+.footer-one
+{
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 0rem;
+}
+.footer-one img
+{
+    display: inline-block;
+    margin-right: 15px;
+}
+.footer-one strong
+{
+    display: inline-block;
+    margin-right: 18px;
+}
+
+.icon-footer{
+    background-color: #000;
+    opacity: 0.75;
+    display: flex;
+    justify-content: space-evenly;
+    color: #cccccc;
+    font-size: 11px;
+}
+.footer p{
+    padding: 0 24px 50px;
+    background-color: #333338;
+}
+.footer-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.icon-footer img{
+    width: 20%;
+}
+.footer-cont{
+    width: 25%;
+    text-align: center;
+}
+.footer-cont :hover{
+    color: #fff;
+}
+/*
+
+.footer-next{
+    padding: 0 24px 50px;
+    background-color: #333338;
+}
+.footer-line{
+    flex: 1 1 0%;
+    height: 1px;
+    background: rgb(93, 93, 95);
+}
+.footer-next a{
+    display: inline-block;
+    margin: 0 16px !important;
+}
+.footer2-cont{
+    display: flex;
+    align-items: center;
+    padding: 44px 0;
+}
+.social-links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 0 20px;
+}
+.social-links link{
+    margin: 0 16px 0 0;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5d5d5f;
+    border-radius: 50%;
+    font-size: 20px;
+    cursor: pointer;
+    color: #000000ab;
+    transition: 0.3s ease;
+}
+.social-links link:hover{
+    background-color: #fff;
+}
+.footer-next p{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    color: #5d5d5f;
+} */
+
+.footer3{
+    padding: 0 24px 50px;
+    background-color: #333338;
+}
+.line{
+    flex: 1 1 0%;
+    height: 1px;
+    background: rgb(93, 93, 95);
+}
+.footer3 a{
+    display: inline-block;
+    margin: 0 16px !important;
+}
+.footer3a{
+    display: flex;
+    align-items: center;
+    padding: 44px 0;
+}
+.social_links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 0 20px;
+}
+.social_links div{
+    margin: 0 16px 0 0;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5d5d5f;
+    border-radius: 50%;
+    font-size: 20px;
+    cursor: pointer;
+    color: #000000ab;
+    transition: 0.3s ease;
+}
+.social_links div:hover{
+    background-color: #fff;
+}
+.footer3 p{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    color: #5d5d5f;
+}
